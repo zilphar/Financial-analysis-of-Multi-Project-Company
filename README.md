@@ -1,6 +1,6 @@
 # Financial-analysis-of-Multi-Project-Company
 
-**<ins>📊 Portfolio Project: Financial Modeling and Performance Analysis in Power BI<ins/>**
+# **<ins>📊 Portfolio Project: Financial Modeling and Performance Analysis in Power BI<ins/>**
 
 🧩 Project Overview
 
@@ -28,7 +28,7 @@ c. Calculate profit margins, cost-to-revenue ratio, and project-level contributi
 
 d. Use visuals (bar charts, KPIs) to communicate trends, outliers, and performance drivers.
 
-**<ins>📈 Key Performance Insights<ins/>**
+# **<ins>📈 Key Performance Insights<ins/>**
 
 # 🟢 Revenue Analysis:
 
