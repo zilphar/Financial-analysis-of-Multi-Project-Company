@@ -72,3 +72,11 @@ b. Opportunity to replicate Project A’s strategy across other projects to rest
 
 c. Introduce monthly profitability reviews to track and mitigate high-cost months.
 
+# Tools Used
+
+Excel: Data cleaning
+
+Power BI: Visualization, DAX calculations, dashboard creation
+
+Financial Formulas: Gross Profit, Net Profit, Cost-to-Revenue Ratio, Profit Margin
+
