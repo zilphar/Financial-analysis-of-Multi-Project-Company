@@ -1,13 +1,14 @@
 # Financial-analysis-of-Multi-Project-Company
 
-# **<ins>📊 Portfolio Project: Financial Modeling and Performance Analysis in Power BI<ins/>**
+**<ins>📊 Portfolio Project: Financial Modeling and Performance Analysis in Power BI<ins/>**
 
- Project Overview
+****<ins>Project Overview</ins>****
 
 This project involved developing a comprehensive financial performance model in Power BI to assess revenue, cost, and profitability data across three projects (A, B, and C) over the fiscal years 2023 and 2024. The objective was to evaluate the business's financial health, identify loss-making segments, and recommend data-driven strategies for improving profitability.
 
-# Key Skills Demonstrated
-a.Financial Modeling
+****<ins>Key Skills Demonstrated</ins>****
+
+a.Financial Modeling 
 
 b. Power BI Dashboarding & DAX
 
@@ -19,7 +20,8 @@ e. Profitability & Margin Analysis
 
 f. Business Intelligence Storytelling
 
-# Modeling Scope & Objectives
+****<ins>Modeling Scope and Objectives</ins>****
+
 a. Track and visualize total revenue, costs, and net profit by year, month, and project.
 
 b. Break down COGS vs. Operating Expenses (OPEX) to understand cost structure.
@@ -28,9 +30,9 @@ c. Calculate profit margins, cost-to-revenue ratio, and project-level contributi
 
 d. Use visuals (bar charts, KPIs) to communicate trends, outliers, and performance drivers.
 
-# **<ins>Key Performance Insights<ins/>**
+****<ins>Key Performance Insights<ins/>****
 
-# Revenue Analysis:
+##### Revenue Analysis:
 
 Total Revenue: $893,990
 
@@ -40,7 +42,7 @@ Total Revenue: $893,990
 
 Top-Performing Project: Project A with a Revenue of $313,927.
 
-# Cost Analysis:
+##### Cost Analysis:
 
 Total Costs: $904,437
 
@@ -50,7 +52,7 @@ OPEX: $493,537
 
 Cost-to-Revenue Ratio: 1.01. shwoing that costs exceed revenue.
 
-# Profitability:
+##### Profitability:
 
 Net Loss: ($10,447)
 
@@ -60,11 +62,11 @@ Only Profitable Project: Project A (Net Profit: $6,274)
 
 Loss Drivers: Projects B and C had net losses totaling over $16,000
 
-# Cost Efficiency:
+##### Cost Efficiency:
 
 Balanced cost allocation across projects but unsustainable margins.
 
-# Business Impact & Recommendations
+****<ins>Business Impact & Recommendations</ins>****
 
 a. Immediate need to reduce operating expenses and restructure resource allocation in Project B and C.
 
@@ -72,7 +74,7 @@ b. Opportunity to replicate Project A’s strategy across other projects to rest
 
 c. Introduce monthly profitability reviews to track and mitigate high-cost months.
 
-# Tools Used
+****<ins>Tools Used</ins>****
 
 Excel: Data cleaning
 
